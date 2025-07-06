@@ -1,0 +1,5 @@
+id,make,model,year,type,status,customerId,name,phone,email,rentalStartDate,expectedReturnDate,priceForRent
+1,Audi,a3,2007,sedan,AVAILABLE,,,,,,,0.00
+2,Mazda,6,2009,sedan,AVAILABLE,,,,,,,0.00
+BMW,320i,320i,2009,sedan,REMOVE_FROM_AUTO_PARK,,,,,,,0.00
+3,Mini,Paceman,2022,Hatchback,RENTED,03,Leo Messi,0896333389,LeoMessi@abv.bg,2025-07-06,2025-07-13,55.50
